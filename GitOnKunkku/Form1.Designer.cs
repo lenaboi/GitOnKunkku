@@ -1,4 +1,4 @@
-/// juuuuuuuuuuuuuuuuu lollllllllll xddddd
+/// juuuuuuuuuuuuuuuuu lollllllllll xddddd looll
 namespace GitOnKunkku
 {
     partial class Form1
